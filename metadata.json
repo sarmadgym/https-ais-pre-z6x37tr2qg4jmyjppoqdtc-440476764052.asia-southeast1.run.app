@@ -1,0 +1,7 @@
+{
+  "name": "Remix: SARMAD GYM Lalmonirhat",
+  "description": "Premium fitness and bodybuilding center in Lalmonirhat, Bangladesh. Achieve your fitness goals with expert trainers and modern equipment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
